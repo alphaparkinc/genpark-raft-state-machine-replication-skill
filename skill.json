@@ -1,0 +1,17 @@
+{
+  "name": "genpark-raft-state-machine-replication-skill",
+  "version": "1.0.0",
+  "description": "Raft consensus engine with leader election, heartbeat timeouts, term epoch increments, and replicated log entry commit verification.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "raft-consensus",
+    "state-machine-replication",
+    "distributed-systems",
+    "fault-tolerance",
+    "quorum"
+  ],
+  "dependencies": []
+}
